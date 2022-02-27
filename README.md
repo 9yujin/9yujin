@@ -12,7 +12,10 @@
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>  
   <br><br>
   <img src="https://img.shields.io/badge/Ps-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Ai-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white">
