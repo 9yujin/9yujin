@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=black">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
