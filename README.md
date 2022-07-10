@@ -1,8 +1,6 @@
 <div align="center">
   
   <h3>code with</h3>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -13,12 +11,12 @@
   <br>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>  
+  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>  
   <br><br>
   <h3>design with</h3>
   <img src="https://img.shields.io/badge/Ps-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
