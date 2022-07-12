@@ -4,12 +4,9 @@
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white">
-  <img src="https://img.shields.io/badge/-0170FE?style=flat-square&logo=antdesign&logoColor=white">
   <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Next.Js&logoColor=white">
   <img src="https://img.shields.io/badge/-B42AED?style=flat-square&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/-FF4154?style=flat-square&logo=reactquery&logoColor=white">
