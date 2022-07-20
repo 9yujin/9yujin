@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3>code with</h3>
+  <h3>Code with</h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
@@ -21,15 +21,20 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mongo-47A248?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/s3-569A31?style=flat-square&logo=amazons3&logoColor=white">
-  <br><br>
-  <h3>design with</h3>
+  
+  <h3>Design with</h3>
   <img src="https://img.shields.io/badge/Ps-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Ai-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   
-  <h2></h2>
   <h3>Link</h3>
   <a href="https://github.com/9yujin" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://9yujin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white"/></a>
   <a href="https://www.instagram.com/9yu.oo/" target="_blank"><img src="https://img.shields.io/badge/Gram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </div>
+
+<h2></h2>
+
+> 홍익대학교 <sub> 컴퓨터공학과 (2018.03 ~ )</sub> <br>
+> [고스락](https://github.com/Gosrock) <sub> 티켓 예매 서비스 FE, UI/UX (2022.02, 2022.08)</sub> <br>
+> [CEOS](https://www.ceos.or.kr/) <sub> 15기 FE - [Bankidz](https://github.com/bankidz/bankidz-client) (2022.03 ~ 2022.08)</sub>  
