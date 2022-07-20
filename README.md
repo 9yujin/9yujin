@@ -35,6 +35,6 @@
 
 <h2></h2>
 
-> 홍익대학교 <sub> 컴퓨터공학과 (2018.03 ~ )</sub> <br>
-> [고스락](https://github.com/Gosrock) <sub> 티켓 예매 서비스 FE, UI/UX (2022.02, 2022.08)</sub> <br>
-> [CEOS](https://www.ceos.or.kr/) <sub> 15기 FE - [Bankidz](https://github.com/bankidz/bankidz-client) (2022.03 ~ 2022.08)</sub>  
+홍익대학교 <sub> 컴퓨터공학과 (2018.03 ~ )</sub> <br>
+[고스락](https://github.com/Gosrock) <sub> 티켓 예매 서비스 FE, UI/UX (2022.02, 2022.08)</sub> <br>
+[CEOS](https://www.ceos.or.kr/) <sub> 15기 FE - [Bankidz](https://github.com/bankidz/bankidz-client) (2022.03 ~ 2022.08)</sub>  
