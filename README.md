@@ -36,6 +36,6 @@
 <h2></h2>
 
 <li> 홍익대학교 컴퓨터공학과 <sub>(2018.03 ~ )</sub></li>
-<li>고스락 티켓 예매 서비스 • FE, UI/UX 디자인 <sub> (<a href="https://github.com/Gosrock/Ticket-Front-21th">2022.02</a>, <a href="https://github.com/Gosrock/Ticket-Front-22th">2022.08</a>)</sub></li>
+<li>고스락 티켓 예매 서비스 • FE, UI/UX 디자인 <sub> (1차:<a href="https://github.com/Gosrock/Ticket-Front-21th">2022.02</a>, 2차:<a href="https://github.com/Gosrock/Ticket-Front-22th">2022.08</a>)</sub></li>
 <li><a href="https://www.ceos.or.kr"> 신촌연합 IT 창업 동아리 CEOS</a> • 15기 FE <sub>(2022.03 ~ 2022.08)</sub></li>  
 <li><a href="https://github.com/bankidz/bankidz-client"> 뱅키즈 (Bankidz) - 어린이 금융 교육 서비스</a> • FE <sub>(2022.06 ~ 2022.08)</sub></li>  
