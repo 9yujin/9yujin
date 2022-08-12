@@ -38,4 +38,5 @@
 <li> 홍익대학교 컴퓨터공학과 <sub>(2018.03 ~ )</sub></li>
 <li> <a href="https://github.com/Gosrock">고스락</a> -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-21th">1차</a>, <a href="https://github.com/Gosrock/Ticket-Front-22th">2차</a> • 기획, UX/UI 디자인, FE 팀장 <sub> (1차:2022.02, 2차:2022.08)</sub></li>
 <li>신촌연합 IT 창업 동아리 CEOS • 15기 FE <sub>(2022.03 ~ 2022.08)</sub></li>  
+<li>신촌연합 IT 창업 동아리 CEOS • 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>  
 <li><a href="https://github.com/bankidz/bankidz-client"> 뱅키즈 (Bankidz) - 어린이 금융 교육 서비스</a> • FE <sub>(2022.06 ~ )</sub></li>  
