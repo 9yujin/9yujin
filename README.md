@@ -28,9 +28,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   
   <h3>Link</h3>
-  <a href="mailto:rbwls0218@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://9yujin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-A9BCF5?style=flat-square&logo=Undertale&logoColor=white"/></a>
+  <a href="https://9yujin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-ededed?style=flat-square&logo=Undertale&logoColor=A9BCF5"/></a>
   <a href="https://www.instagram.com/9yu.oo/" target="_blank"><img src="https://img.shields.io/badge/Gram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://solved.ac/david0218"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=david0218"/></a>
 </div>
 
 <h2></h2>
