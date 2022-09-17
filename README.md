@@ -7,20 +7,16 @@
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white">
-  <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=Next.Js&logoColor=white">
-  <img src="https://img.shields.io/badge/-B42AED?style=flat-square&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-B42AED?style=flat-square&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.Js&logoColor=white">
   <br>
-    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/-009639?style=flat-square&logo=Nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <br>
-  
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/mongo-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/s3-569A31?style=flat-square&logo=amazons3&logoColor=white">
+  <br>
   
   <h3>Design with</h3>
   <img src="https://img.shields.io/badge/Ps-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
