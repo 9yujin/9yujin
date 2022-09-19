@@ -37,3 +37,4 @@
 <li><a href="https://github.com/bankidz/bankidz-client"> 뱅키즈 (Bankidz)</a> - 어린이 금융 교육 서비스 • FE <sub>(2022.06 ~ )</sub></li>  
 <li> 고스락 -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-22th">2차</a> • 기획, UX/UI 디자인, FE 팀장 <sub> (2022.08)</sub></li>
 <li>신촌연합 IT 창업 동아리 CEOS • 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>
+<li>GDSC Hongik • 1기 FE Core Member <sub>(2022.09 ~ )</sub></li>  
