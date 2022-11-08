@@ -3,9 +3,8 @@
   <h3>Code with</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white">
-  <img src="https://img.shields.io/badge/Query-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-B42AED?style=flat-square&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.Js&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
