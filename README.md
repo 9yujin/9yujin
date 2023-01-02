@@ -7,8 +7,6 @@
   <br>
   <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <br>
-  <br>
   
   <h3>Design with</h3>
   <img src="https://img.shields.io/badge/Ps-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
@@ -28,7 +26,7 @@
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/9yujin/CEOS-FE-15th">CEOS</a> • 15기 FE <sub>(2022.03 ~ 2022.08)</sub></li>
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>
 <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> • 1기 FE Core Member <sub>(2022.09 ~ )</sub></li>
-<li>Nexters • 22기 FE <sub>(2023.01 ~ )</sub></li>  
+<li>NEXTERS • 22기 FE <sub>(2023.01 ~ )</sub></li>  
 <br>
 <li> <a href="https://github.com/Gosrock">고스락</a> -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-21th">1차</a> • 기획, UX/UI 디자인, FE <sub> (2022.02)</sub></li>
 <li> 고스락 -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-22th">2차</a> • 기획, UX/UI 디자인, FE <sub> (2022.08)</sub></li>
