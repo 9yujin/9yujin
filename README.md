@@ -15,7 +15,7 @@
   
   <h3>Link</h3>
   <a href="https://github.com/9yujin" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://9yujin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-ededed?style=flat-square&logo=Tistory&logoColor=black"/></a>
+  <a href="https://9yujin.site" target="_blank"><img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a>
   <a href="https://9yujin.notion.site/Portfolio-f86ad50f71db433ebfb3985970e86da6"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
   </div>
 </div>
