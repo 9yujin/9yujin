@@ -31,5 +31,6 @@
 <li> <a href="https://github.com/Gosrock">고스락</a> -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-21th">1차</a> • 기획, UX/UI 디자인, FE <sub> (2022.02)</sub></li>
 <li> 고스락 -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-22th">2차</a> • 기획, UX/UI 디자인, FE <sub> (2022.08)</sub></li>
 <li><a href="https://github.com/bankidz/bankidz-client"> 뱅키즈 (Bankidz)</a> - 어린이 금융 교육 서비스 창업팀 • FE <sub>(2022.06 ~ 2022.12)</sub></li>
-<li><a href="https://github.com/Gosrock/DuDoong-Front"> 두둥 </a> - 모두를 위한 공연 라이프 • 기획, UX/UI 디자인, FE <sub>(2023.01 ~ )</sub></li>
+<li><a href="https://github.com/Gosrock/DuDoong-Front"> 두둥 </a> - 모두를 위한 공연 라이프 • 기획, UX/UI 디자인, FE <sub>(2023.01 ~ 2023.03)</sub></li>
+<li><a href="https://github.com/Nexters/nexters-admin-client"> 위클리 </a> - 넥스터즈 어드민 서비스 • FE <sub>(2023.01 ~ 2023.03 )</sub></li>
 
