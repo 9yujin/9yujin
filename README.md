@@ -34,3 +34,11 @@
 <li><a href="https://github.com/Gosrock/DuDoong-Front"> 두둥 </a> - 모두를 위한 공연 라이프 • 기획, UX/UI 디자인, FE <sub>(2023.01 ~ 2023.03)</sub></li>
 <li><a href="https://github.com/Nexters/nexters-admin-client"> 위클리 </a> - 넥스터즈 어드민 서비스 • FE <sub>(2023.01 ~ 2023.03 )</sub></li>
 
+<h2></h2>
+
+<br>
+<div align="center">
+  <div><b>최근에 작성한 글</b></div>
+  <br>
+  <a href="https://9yujin.tistory.com"><img src="https://github-readme-tistory-card.vercel.app/api?name=9yujin&postId=107"/></a>
+</div>
