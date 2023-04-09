@@ -40,5 +40,5 @@
 <div align="center">
   <div><b>최근에 작성한 글</b></div>
   <br>
-  <a href="https://9yujin.tistory.com/107"><img src="https://github-readme-tistory-card.vercel.app/api?name=9yujin&postId=107"/></a>
+  <a href="https://9yujin.tistory.com/109"><img src="https://github-readme-tistory-card.vercel.app/api?name=9yujin&postId=109"/></a>
 </div>
