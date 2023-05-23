@@ -16,12 +16,13 @@
   <h3>Link</h3>
   <a href="https://github.com/9yujin" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://9yujin.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a>
-  <a href="https://9yujin.site/resume"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=notion&logoColor=white"/></a>
   </div>
+  
 </div>
-
+<br/>
 <h2></h2>
-
+<li>제 이력서는 <a href="https://9yujin.notion.site/95412db448374948b2c168135a26b719"> 여기<a/>서 보실 수 있습니다.</li>
+<h2></h2>
 <li><a href="https://github.com/Nexters">NEXTERS</a> • 22기 FE <sub>(2023.01 ~ 2023.02)</sub></li>
 <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> • 1기 FE Core Member <sub>(2022.09 ~ )</sub></li>
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>
