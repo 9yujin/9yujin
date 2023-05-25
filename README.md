@@ -21,7 +21,7 @@
 </div>
 <br/>
 <h2></h2>
-<li>제 이력서는 <a href="https://9yujin.notion.site/95412db448374948b2c168135a26b719"> 여기<a/>서 보실 수 있습니다.</li>
+<li>자세한 이력서는 <a href="https://9yujin.notion.site/95412db448374948b2c168135a26b719"> 여기<a/>서 보실 수 있습니다.</li>
 <h2></h2>
 <li><a href="https://github.com/Nexters">NEXTERS</a> • 22기 FE <sub>(2023.01 ~ 2023.02)</sub></li>
 <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> • 1기 FE Core Member <sub>(2022.09 ~ )</sub></li>
