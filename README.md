@@ -2,11 +2,11 @@
   
   <h3>한규진</h3>
   <p>Web Frontend Developer</p>
+  <a href="https://9yujin.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Devlog-eaeaea?style=square&logo=GitHubSponsors&logoColor=white"/></a>
+  <a href="https://9yujin.notion.site/95412db448374948b2c168135a26b719"><img src="https://img.shields.io/badge/Resume-D9730D.svg?style=square&logo=notion&logoColor=white"/></a>
   
 </div>
 <br/>
-<h2></h2>
-<li>자세한 이력서는 <a href="https://9yujin.notion.site/95412db448374948b2c168135a26b719"> 여기<a/>서 보실 수 있습니다.</li>
 <h2></h2>
 <li><a href="https://github.com/Nexters">NEXTERS</a> • 22기 FE <sub>(2023.01 ~ 2023.02)</sub></li>
 <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> • 1기 FE Core Member <sub>(2022.09 ~ )</sub></li>
@@ -33,7 +33,7 @@
   <br>
   <a href="https://9yujin.tistory.com/113"><img src="https://github-readme-tistory-card.vercel.app/api?name=9yujin&postId=113"/></a>
 </div>
-<br>
+<br><br>
 <div align="center">
   <div><b>최근에 들은 노래</b></div>
   <br>
