@@ -37,5 +37,5 @@
 <div align="center">
   <div><b>최근에 들은 노래</b></div>
   <br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=e6qyjf1nk467xrcayc0n1osmc" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315xtgjiql2xrqlm4unjvtaxj5cm&width=450&count=3" />
 </div>
