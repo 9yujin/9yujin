@@ -1,22 +1,7 @@
 <div align="center">
   
-  <h3>Code with</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  
-  <h3>Design with</h3>
-  <img src="https://img.shields.io/badge/Ps-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Ai-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-  
-  <h3>Link</h3>
-  <a href="https://github.com/9yujin" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://9yujin.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Devlog-000000?style=flat-square&logo=GitHubSponsors&logoColor=white"/></a>
-  </div>
+  <h3>한규진</h3>
+  <p>Web Frontend Developer</p>
   
 </div>
 <br/>
@@ -47,4 +32,10 @@
   <div><b>최근에 작성한 글</b></div>
   <br>
   <a href="https://9yujin.tistory.com/113"><img src="https://github-readme-tistory-card.vercel.app/api?name=9yujin&postId=113"/></a>
+</div>
+<br>
+<div align="center">
+  <div><b>최근에 들은 노래</b></div>
+  <br>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=e6qyjf1nk467xrcayc0n1osmc" />
 </div>
