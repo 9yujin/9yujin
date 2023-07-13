@@ -8,18 +8,17 @@
 </div>
 <br/>
 <h2></h2>
-<li><a href="https://github.com/Nexters">NEXTERS</a> • 22기 FE <sub>(2023.01 ~ 2023.02)</sub></li>
+<li><a href="https://github.com/Nexters">NEXTERS</a> • 22기, 23기 FE <sub>(2023.01 ~ 2023.02, 2023.07 ~ 2023.08)</sub></li>
 <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> • 1기 FE Core Member <sub>(2022.09 ~ )</sub></li>
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/9yujin/CEOS-FE-15th">CEOS</a> • 15기 FE <sub>(2022.03 ~ 2022.08)</sub></li>
 <li> 홍익대학교 컴퓨터공학과 <sub>(2018.03 ~ )</sub></li>
 <br>
-<li> 에그픽 어드민 유지보수 및 개발 (외주) <sub>(2023.05 ~ )</sub></li>
+<li> 에그픽 어드민 유지보수 및 외주 개발 <sub>(2023.05 ~ 2023.07)</sub></li>
 <li><a href="https://github.com/Gosrock/DuDoong-Front"> 두둥 </a> - 모두를 위한 공연 라이프 • 기획, UX/UI 디자인, FE <sub>(2023.01 ~ 2023.03)</sub></li>
 <li><a href="https://github.com/Nexters/nexters-admin-client"> 위클리 </a> - 넥스터즈 어드민 서비스 • FE <sub>(2023.01 ~ 2023.03 )</sub></li>
 <li><a href="https://github.com/bankidz/bankidz-client"> 뱅키즈 (Bankidz)</a> - 어린이 금융 교육 서비스 창업팀 • FE <sub>(2022.06 ~ 2022.12)</sub></li>
-<li> 고스락 -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-22th">2차</a> • 기획, UX/UI 디자인, FE <sub> (2022.08)</sub></li>
-<li> <a href="https://github.com/Gosrock">고스락</a> -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-21th">1차</a> • 기획, UX/UI 디자인, FE <sub> (2022.02)</sub></li>
+<li> 고스락 -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-21th">1차</a> / <a href="https://github.com/Gosrock/Ticket-Front-22th">2차</a> • 기획, UX/UI 디자인, FE <sub> (2022.02, 2022.08)</sub></li>
 
 
 
