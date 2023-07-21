@@ -14,7 +14,7 @@
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/9yujin/CEOS-FE-15th">CEOS</a> • 15기 FE <sub>(2022.03 ~ 2022.08)</sub></li>
 <li> 홍익대학교 컴퓨터공학과 <sub>(2018.03 ~ )</sub></li>
 <br>
-<li><a href="https://github.com/Nexters/draw-frontend">[Draw - 숏폼 익명 고민상담 서비스]</a> • FE <sub>(2023.07 ~ 2023.08 )</sub></li>
+<li><a href="https://github.com/Nexters/draw-frontend">[Draw - 숏폼 익명 고민상담 서비스]</a> • FE <sub>(2023.07 ~ 2023.08 )</sub></li>
 <li>[에그픽 어드민] • 유지보수 및 외주 개발<sub>(2023.05 ~ 2023.07)</sub></li>
 <li><b><a href="https://github.com/Gosrock/DuDoong-Front">[두둥 - 모두를 위한 공연 플랫폼]</a> • 기획, UX/UI 디자인, FE <sub>(2023.01 ~ 2023.03)</sub></b></li>
 <li><a href="https://github.com/Nexters/nexters-admin-client">[위클리 - 넥스터즈 어드민 서비스]</a> • FE <sub>(2023.01 ~ 2023.03 )</sub></li>
