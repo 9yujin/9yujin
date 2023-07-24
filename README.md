@@ -8,6 +8,7 @@
 </div>
 <br/>
 <h2></h2>
+<li>토스 인슈어런스 • Frontend Developer Assistant <sub>(2023.08 ~ 2023.11)</sub></li>
 <li><a href="https://github.com/Nexters">NEXTERS</a> • 22기, 23기 FE <sub>(2023.01 ~ 2023.02, 2023.07 ~ 2023.08)</sub></li>
 <li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> • 1기 FE Core Member <sub>(2022.09 ~ )</sub></li>
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>
