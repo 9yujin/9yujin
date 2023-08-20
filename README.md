@@ -4,6 +4,7 @@
   <p>Web Frontend Developer</p>
   <a href="https://9yujin.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Devlog-4593fc?style=square&logo=GitHubSponsors&logoColor=white"/></a>
   <a href="https://9yujin.notion.site/95412db448374948b2c168135a26b719"><img src="https://img.shields.io/badge/Resume-eaeaea.svg?style=square&logo=notion&logoColor=white"/></a>
+  <a href="https://dudoong.com/home"><img src="https://img.shields.io/badge/DuDoong-13E8B5.svg?style=square&logo=zalando&logoColor=white"/></a>
   
 </div>
 <br/>
