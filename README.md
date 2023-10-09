@@ -11,7 +11,7 @@
 <h2></h2>
 <li><b>토스인슈어런스 • Frontend Developer <sub>(2023.08 ~ )</sub></b></li>
 <li><a href="https://github.com/Nexters">NEXTERS</a> • 22기, 23기 FE <sub>(2023.01 ~ 2023.02, 2023.07 ~ 2023.08)</sub></li>
-<li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> • 1기 FE Core Member <sub>(2022.09 ~ )</sub></li>
+<li><a href="https://github.com/GDSC-Hongik">GDSC Hongik</a> • 1기 FE Core Member <sub>(2022.09 ~ 2023.08)</sub></li>
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/CEOS-Developers">CEOS</a> • 16기 FE 운영진 <sub>(2022.09 ~ 2023.02)</sub></li>
 <li>신촌연합 IT 창업 동아리 <a href="https://github.com/9yujin/CEOS-FE-15th">CEOS</a> • 15기 FE <sub>(2022.03 ~ 2022.08)</sub></li>
 <li> 홍익대학교 컴퓨터공학과 <sub>(2018.03 ~ )</sub></li>
