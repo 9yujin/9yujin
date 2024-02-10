@@ -35,9 +35,3 @@
   <br>
   <a href="https://9yujin.tistory.com/117"><img src="https://github-readme-tistory-card.vercel.app/api?name=9yujin&postId=117"/></a>
 </div>
-<br><br>
-<div align="center">
-  <div><b>최근에 들은 노래</b></div>
-  <br>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315xtgjiql2xrqlm4unjvtaxj5cm&width=450&count=3" />
-</div>
