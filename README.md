@@ -22,16 +22,3 @@
 <li><a href="https://github.com/Nexters/nexters-admin-client">[위클리 - 넥스터즈 어드민 서비스]</a> • FE <sub>(2023.01 ~ 2023.03 )</sub></li>
 <li><a href="https://github.com/bankidz/bankidz-client"> [뱅키즈 - 어린이 금융 교육 서비스 창업팀]</a> • FE <sub>(2022.06 ~ 2022.12)</sub></li>
 <li> [고스락 -  티켓 예매 서비스 <a href="https://github.com/Gosrock/Ticket-Front-21th">1차</a> / <a href="https://github.com/Gosrock/Ticket-Front-22th">2차</a>] • 기획, UX/UI 디자인, FE <sub> (2022.02, 2022.08)</sub></li>
-
-
-
-
-
-<h2></h2>
-
-<br>
-<div align="center">
-  <div><b>최근에 작성한 글</b></div>
-  <br>
-  <a href="https://9yujin.tistory.com/117"><img src="https://github-readme-tistory-card.vercel.app/api?name=9yujin&postId=117"/></a>
-</div>
