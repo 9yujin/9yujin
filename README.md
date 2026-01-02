@@ -1,5 +1,5 @@
 한규진<br/>
-<sub><a href="antifreeze.kr">antifreeze.kr</a> | <a href="https://www.linkedin.com/in/9yujin/">linkedin</a> </sub>
+<sub><a href="https://antifreeze.kr">antifreeze.kr</a> | <a href="https://www.linkedin.com/in/9yujin/">linkedin</a> </sub>
 <br/><br/>
 <sub>• <b>토스인슈어런스 Frontend Developer (2023.08 ~)</b></sub><br/>
 <sub>• <a href="dudoong.com">두둥!</a> (2023.08 ~)</sub><br/>
